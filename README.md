@@ -117,11 +117,7 @@ Paste your project output video link here.
 
 👉 **Project Explanation Video**
 
-Paste your explanation video link here.
-
-```
-https://youtu.be/Your_Project_Explanation_Link
-```
+[Paste your explanation video link here](https://drive.google.com/file/d/1D5K8LuWPppm6muPKgWcOM3F4LM23U34G/view?usp=drivesdk)
 
 ---
 
